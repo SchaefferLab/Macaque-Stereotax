@@ -1,1 +1,0 @@
-# Macaque-Stereotax
